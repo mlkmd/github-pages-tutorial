@@ -1,9 +1,6 @@
 # github-pages-tutorial
 GitHub Pages チュートリアル
 
-## デプロイ
+## サイト
 
-```bash
-npm run build
-npx gh-pages -d build
-```
+https://mlkmd.github.io/github-pages-tutorial/
